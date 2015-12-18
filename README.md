@@ -1,0 +1,2 @@
+# purge
+Purge Akamai contents
